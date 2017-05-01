@@ -20,7 +20,6 @@ El código (todo él en la carpeta **src/**) se ha dividido en un **main.c** y t
 
 > **_El juego ha sido desarrollado en Windows y para Windows!!_**
 > _Si se desea implementar en Linux, antes se deben cambiar tres cosas en el código:_
-
 > - Cambiar los "system("cls")" por "system("clear")".
 > - Cambiar las funciones de la librería "conio.h" -getch(),gectche()- que no se tienen de forma predeterminada a Linux.
 > - Cambiar las funciones Beep() -que hacen un ruidito cuando se presiona una tecla incorrecta- de la librería "Windows.h".
