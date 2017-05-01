@@ -26,5 +26,10 @@ El código (todo él en la carpeta **src/**) se ha dividido en un **main.c** y t
 
 >_El juego no ha sido testeado en Mac OSX._
 
+## Preview
+
+![Screenshot](screenshots/img1.png)
+![Screenshot](screenshots/img2.png)
+![Screenshot](screenshots/img3.png)
 
 _Desarrollado por Martín Campos para la asignatura de 'Programació Avançada' del grado de Matemáticas de la Universitat Autònoma de Barcelona_
